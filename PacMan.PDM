@@ -1,0 +1,996 @@
+[Root]
+Most Recent Package=Dep File 1
+
+[Package|PacMan Millenium|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\windows\desktop\CDBurn\Pacman
+
+[Package|PacMan Millenium|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PacMan Millenium|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PacMan Millenium|Files Found]
+
+[Package|PacMan Millenium|Files Released]
+
+[Package|PacMan Millenium|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\msdxm.ocx=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+
+[Package|PacMan Millenium|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|PacMan Millenium|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.CNT=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.HLP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\High.dat=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\level.dat=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mEnd.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mGame.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mIntro.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mstart.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdead.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdrunk.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wkill.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wPoint.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wshield.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wwin.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_dn.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_lf.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_rg.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_up.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_dn.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_lf.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_rg.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_up.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_dn.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_lf.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_rg.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_up.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gsick.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_dn.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_lf.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_up.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_rg.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\1up.BMP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Beer.BMP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Berry.BMP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Cherry.BMP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Protect.BMP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Shield.BMP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\title.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pause.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\PacDance.avi=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_dn.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_rg.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_lf.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_up.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_dn.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_lf.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_rg.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_up.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\Skull.BMP=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Back.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Food.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall2.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Back.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Food.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall2.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Back.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Food.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall2.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Back.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Food.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall2.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Back.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Food.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall2.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Back.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Food.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall2.bmp=
+
+[Package|PacMan Millenium|Files Removed]
+
+[Package|PacMan Millenium|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DX7VB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\msdxm.ocx=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.CNT=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.HLP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\High.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\level.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mEnd.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mGame.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mIntro.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mstart.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdead.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdrunk.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wkill.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wPoint.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wshield.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wwin.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gsick.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\1up.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Beer.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Berry.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Cherry.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Protect.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Shield.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\title.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pause.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\PacDance.avi=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\Skull.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall2.bmp=Yes
+
+[Package|PacMan Millenium|Configure Registry Files]
+Applicable=No
+
+[Package|PacMan Millenium|Configure Remote Servers]
+Applicable=No
+
+[Package|PacMan Millenium|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.CNT=$(AppPath)\pacman\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.HLP=$(AppPath)\pacman\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\High.dat=$(AppPath)\pacman\game\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\level.dat=$(AppPath)\pacman\game\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mEnd.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mGame.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mIntro.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mstart.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdead.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdrunk.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wkill.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wPoint.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wshield.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wwin.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gsick.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\1up.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Beer.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Berry.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Cherry.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Protect.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Shield.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\title.bmp=$(AppPath)\pacman\image\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pause.bmp=$(AppPath)\pacman\image\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\PacDance.avi=$(AppPath)\pacman\image\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_dn.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_rg.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_lf.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_up.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_dn.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_lf.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_rg.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_up.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\Skull.BMP=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+
+[Package|PacMan Millenium|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.CNT=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.HLP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\High.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\level.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mEnd.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mGame.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mIntro.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mstart.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdead.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdrunk.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wkill.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wPoint.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wshield.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wwin.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gsick.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\1up.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Beer.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Berry.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Cherry.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Protect.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Shield.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\title.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pause.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\PacDance.avi=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\Skull.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall2.bmp=No
+
+[Package|PacMan Millenium|Distribution]
+Type=single
+Size=
+Title=Pac Man Millenium
+
+[Package|PacMan Millenium|IconGroups]
+Group0=PacMan Millenium
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|PacMan Millenium|PacMan Millenium]
+Icon1=PacMan.EXE
+Title1=PacMan
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|PacMan Millenium D:|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\Pac
+
+[Package|PacMan Millenium D:|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PacMan Millenium D:|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PacMan Millenium D:|Files Found]
+
+[Package|PacMan Millenium D:|Files Released]
+
+[Package|PacMan Millenium D:|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\msdxm.ocx=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+
+[Package|PacMan Millenium D:|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|PacMan Millenium D:|Files Added]
+c:\program files\microsoft visual studio\vb98\pacman\pacman\pacman.cnt=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\pacman.hlp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\game\high.dat=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\game\level.dat=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\music\mend.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\music\mgame.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\music\mintro.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\music\mstart.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\sfx\wdead.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\sfx\wdrunk.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\sfx\wkill.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\sfx\wpoint.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\sfx\wshield.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\wave\sfx\wwin.wav=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gcyan_dn.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gcyan_lf.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gcyan_rg.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gcyan_up.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\ggreen_dn.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\ggreen_lf.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\ggreen_rg.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\ggreen_up.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gred_dn.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gred_lf.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gred_rg.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gred_up.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gsick.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gyellow_dn.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gyellow_lf.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gyellow_up.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\ghost\gyellow_rg.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\item\1up.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\item\beer.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\item\berry.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\item\cherry.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\item\protect.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\item\shield.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\title.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pause.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pacdance.avi=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\close_dn.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\close_rg.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\close_lf.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\close_up.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\open_dn.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\open_lf.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\open_rg.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\open_up.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\pac\skull.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\0_back.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\0_food.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\0_wall.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\0_wall2.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\1_back.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\1_food.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\1_wall.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\1_wall2.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\2_back.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\2_food.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\2_wall.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\2_wall2.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\3_back.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\3_food.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\3_wall2.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\3_wall.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\4_back.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\4_food.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\4_wall.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\4_wall2.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\5_back.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\5_food.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\5_wall.bmp=
+c:\program files\microsoft visual studio\vb98\pacman\pacman\image\schemes\5_wall2.bmp=
+
+[Package|PacMan Millenium D:|Files Removed]
+
+[Package|PacMan Millenium D:|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DX7VB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\msdxm.ocx=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.CNT=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.HLP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\High.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\level.dat=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mEnd.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mGame.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mIntro.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mstart.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdead.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdrunk.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wkill.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wPoint.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wshield.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wwin.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gsick.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\1up.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Beer.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Berry.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Cherry.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Protect.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Shield.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\title.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pause.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\PacDance.avi=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_dn.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_lf.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_rg.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_up.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\Skull.BMP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Back.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Food.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall2.bmp=Yes
+
+[Package|PacMan Millenium D:|Configure Registry Files]
+Applicable=No
+
+[Package|PacMan Millenium D:|Configure Remote Servers]
+Applicable=No
+
+[Package|PacMan Millenium D:|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.CNT=$(AppPath)\pacman\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.HLP=$(AppPath)\pacman\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\High.dat=$(AppPath)\pacman\game\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\level.dat=$(AppPath)\pacman\game\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mEnd.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mGame.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mIntro.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mstart.wav=$(AppPath)\pacman\wave\music\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdead.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdrunk.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wkill.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wPoint.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wshield.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wwin.wav=$(AppPath)\pacman\wave\sfx\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gsick.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_dn.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_lf.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_up.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_rg.bmp=$(AppPath)\pacman\image\ghost\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\1up.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Beer.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Berry.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Cherry.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Protect.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Shield.BMP=$(AppPath)\pacman\image\item\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\title.bmp=$(AppPath)\pacman\image\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pause.bmp=$(AppPath)\pacman\image\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\PacDance.avi=$(AppPath)\pacman\image\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_dn.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_rg.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_lf.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_up.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_dn.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_lf.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_rg.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_up.bmp=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\Skull.BMP=$(AppPath)\pacman\image\pac\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Back.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Food.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall.bmp=$(AppPath)\pacman\image\schemes\
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall2.bmp=$(AppPath)\pacman\image\schemes\
+
+[Package|PacMan Millenium D:|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.CNT=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\PACMAN.HLP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\High.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\game\level.dat=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mEnd.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mGame.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mIntro.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\music\mstart.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdead.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wdrunk.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wkill.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wPoint.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wshield.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\wave\sfx\wwin.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gcyan_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\ggreen_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gred_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gsick.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\ghost\gyellow_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\1up.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Beer.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Berry.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Cherry.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Protect.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\item\Shield.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\title.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pause.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\PacDance.avi=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\close_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_dn.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_lf.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_rg.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\open_up.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\pac\Skull.BMP=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\0_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\1_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\2_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\3_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\4_Wall2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Back.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Food.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\pacman\image\schemes\5_Wall2.bmp=No
+
+[Package|PacMan Millenium D:|Distribution]
+Type=single
+Size=
+Title=Pac Man Millenium
+
+[Package|PacMan Millenium D:|IconGroups]
+Group0=PacMan Millenium
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|PacMan Millenium D:|PacMan Millenium]
+Icon1=PacMan.EXE
+Title1=PacMan
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=c:\windows\desktop\dep
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\msdxm.ocx=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DX7VB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\ODBC32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\msdxm.ocx=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ODBC32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=PacMan.CAB
+DepCabRun=PacMan.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=c:\windows\desktop\dep
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\Pacman
+ServerSideCab=
+File1=c:\windows\desktop\dep\PacMan.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\windows\desktop\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\msdxm.ocx=
+C:\WINDOWS\SYSTEM\DX7VB.DLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\DX7VB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\msdxm.ocx=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DX7VB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msdxm.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Pacman\PacMan.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=PacMan Millenium
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=PacMan Millenium
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|PacMan Millenium]
+Icon1=PacMan.EXE
+Title1=PacMan Millenium
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=c:\windows\desktop\Package
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\Pacman
+ServerSideCab=
+File1=c:\windows\desktop\Package\setup.exe
+File2=c:\windows\desktop\Package\Setup.Lst
+File3=c:\windows\desktop\Package\PacMan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
