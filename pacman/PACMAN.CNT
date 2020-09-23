@@ -1,0 +1,15 @@
+:Base pacman.hlp
+:Title Pac-Man Help
+:Index Pac-Man Help=pacman.hlp
+1 Getting Started
+2 Introducing Pac-Man=Pac_Intro
+2 Playing the game=PAC_PLAY
+2 Scoring information=PAC_SCORING
+2 Tips and tricks=PAC_TIPS
+2 History of the game=PAC_HIST
+1 Customizing Pac-Man
+2 Changing the game settings=CUSTOM
+2 Changing the player controls=CONTROLS
+2 Changing the screen size=SCREEN
+2 Turning the sound on and off=SOUND
+2 Turning Quick Help on and off=HELP

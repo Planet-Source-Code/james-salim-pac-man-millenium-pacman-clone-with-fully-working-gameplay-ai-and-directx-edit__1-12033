@@ -1,0 +1,12 @@
+modDX = 252, 150, 874, 794, 
+modGame = 159, 140, 775, 784, 
+modDeclaration = 103, 220, 717, 864, 
+ModGameChar = 198, 198, 823, 842, 
+modFunction = 66, 66, 735, 658, C
+frmGameConfig = 265, 296, 890, 940, C, 174, 132, 799, 776, C
+ModDirectDraw = 220, 185, 845, 829, C
+frmAbout = 101, 180, 726, 824, C, 22, 22, 647, 666, C
+modGameLevel = 37, 127, 662, 772, 
+frmMain = 110, 110, 731, 754, , 264, 264, 889, 908, C
+modGameHighScore = 259, 163, 880, 807, 
+HScoreAsk = 44, 44, 709, 636, C, 22, 21, 687, 614, C
